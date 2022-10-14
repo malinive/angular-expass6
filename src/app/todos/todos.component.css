@@ -1,0 +1,27 @@
+.actions {
+  width: 20px;
+}
+
+th {
+  border: none;
+}
+
+td {
+  border: none;
+}
+
+.delete {
+  background-color: coral;
+}
+
+.header {
+  text-align: center;
+}
+
+.card {
+  border: none;
+}
+
+.center{
+  text-align: center;
+}
